@@ -16,7 +16,6 @@ export default function bs_list(haystack: number[], needle: number): boolean {
 }
 
 const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
-
 const num = 32;
 
 console.log(bs_list(arr, num));
